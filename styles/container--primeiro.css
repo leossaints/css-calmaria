@@ -45,7 +45,7 @@
     align-self: end;
 }
 
-.container__incricao--form-input button:hover {
+.container__primeiro--texto-botao:hover {
     background: var(--lilas-escuro);
     transition: .5s;
     cursor: pointer;
